@@ -16,7 +16,7 @@ Create a virtual environment and install packages.
     pipenv install
 ```
 
-Create an .env file in the root of the project and add your client details.
+Create an .env file in the root of the project and add your client details. See example below.
 
 **.env**
 ```
