@@ -1,4 +1,4 @@
-# nhs-login-python-example
+# NHS login python demo 
 
 This repo contains a sample application of how to connect to NHS login using python and Flask.
 
@@ -35,6 +35,5 @@ To run the sample, run the following command in the root of the project.
     flask run
 ```
 
-> Note:
->
+## Note:
 > This application is provided as a demo to get started integrating with NHS login and shouldn't be deployed into a production environment :)
